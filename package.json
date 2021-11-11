@@ -1,0 +1,11 @@
+{
+  "name": "end-term",
+  "version": "1.0.0",
+  "description": "This is my end-term project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GUlzhan K.\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[u",
+  "license": "ISC"
+}
